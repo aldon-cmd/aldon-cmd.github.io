@@ -36,7 +36,7 @@
 <img height="131" width="49%" src="images/pantrypan.jpg?raw=true"/>
 </a>
 <a href="images/pantrypan 2.png" target="_blank">
-<img width="49%" src="images/pantrypan 2.png?raw=true"/>
+<img height="131" width="49%" src="images/pantrypan 2.png?raw=true"/>
 </a>
 </p>
 ---
