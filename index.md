@@ -1,15 +1,12 @@
 ## Portfolio
 
 ---
-
-### Category Name 1 
-
 [Discoverpay](/#)
-<img src="images/discoverpay 2.png?raw=true"/>
+<img src="images/discoverpay 2.PNG?raw=true"/>
 
 ---
 [Social Science](/#)
-<img src="images/social science 1.png?raw=true"/>
+<img src="images/social science 1.PNG?raw=true"/>
 
 ---
 [Asset Manager](/#)
