@@ -2,13 +2,15 @@
 
 ---
 [Discoverpay](/#)
-<img align="left" hspace="20" src="images/discoverpay 2.PNG?raw=true"/> <img align="left" hspace="20" src="images/discoverpay 1.PNG?raw=true"/>
-<img align="left" hspace="20" src="images/discoverpay 3.PNG?raw=true"/> <img align="left" hspace="20" src="images/discoverpay 9.PNG?raw=true"/>
-
+<p float="left">
+<img width="32%" src="images/discoverpay 2.PNG?raw=true"/> <img width="32%" src="images/discoverpay 1.PNG?raw=true"/>
+<img width="32%" src="images/discoverpay 3.PNG?raw=true"/> <img width="32%" src="images/discoverpay 9.PNG?raw=true"/>
+</p>
 ---
 [Social Science](/#)
-<img align="left" hspace="20" src="images/social science 1.PNG?raw=true"/> <img align="left" hspace="20" src="images/social science 4.PNG?raw=true"/>
-
+<p float="left">
+<img width="32%" src="images/social science 1.PNG?raw=true"/> <img width="32%" src="images/social science 4.PNG?raw=true"/>
+</p>
 ---
 [Asset Manager](/#)
 <img src="images/asset manager.png?raw=true"/>
