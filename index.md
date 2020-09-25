@@ -38,9 +38,9 @@
 [Pantrypan](/#)
 <p float="left">
 <a href="images/pantrypan.jpg" target="_blank">
-<img src="images/pantrypan.jpg?raw=true"/>
+<img width="49%" src="images/pantrypan.jpg?raw=true"/>
 </a>
 <a href="images/pantrypan 2.png" target="_blank">
-<img src="images/pantrypan 2.png?raw=true"/>
+<img width="49%" src="images/pantrypan 2.png?raw=true"/>
 </a>
 </p>
