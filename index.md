@@ -3,18 +3,36 @@
 ---
 [Discoverpay](/#)
 <p float="left">
-<img width="50%" src="images/discoverpay 2.PNG?raw=true"/> <img width="50%" src="images/discoverpay 1.PNG?raw=true"/>
-<img width="50%" src="images/discoverpay 3.PNG?raw=true"/> <img width="50%" src="images/discoverpay 9.PNG?raw=true"/>
+<a href="images/discoverpay 2.PNG" target="_blank">
+<img src="images/discoverpay 2.PNG?raw=true"/>
+</a>
+<a href="images/discoverpay 1.PNG" target="_blank">
+<img src="images/discoverpay 1.PNG?raw=true"/>
+</a>
+<a href="images/discoverpay 3.PNG" target="_blank">
+<img src="images/discoverpay 3.PNG?raw=true"/>
+</a>
+<a href="images/discoverpay 9.PNG" target="_blank">
+<img src="images/discoverpay 9.PNG?raw=true"/>
+</a>
 </p>
 ---
 [Social Science](/#)
 <p float="left">
-<img width="50%" src="images/social science 1.PNG?raw=true"/> <img width="50%" src="images/social science 4.PNG?raw=true"/>
+<a href="images/social science 1.PNG" target="_blank">
+<img src="images/social science 1.PNG?raw=true"/>
+</a> 
+<a href="images/social science 4.PNG" target="_blank">
+<img src="images/social science 4.PNG?raw=true"/>
+</a>
 </p>
 ---
 [Asset Manager](/#)
+<a href="images/asset manager.png" target="_blank">
 <img src="images/asset manager.png?raw=true"/>
-
+</a>
 ---
 [Pantrypan](/#)
+<a href="images/pantrypan.jpg" target="_blank">
 <img src="images/pantrypan.jpg?raw=true"/>
+</a>
