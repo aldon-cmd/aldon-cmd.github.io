@@ -22,10 +22,9 @@
 <a href="images/social science 1.PNG" target="_blank">
 <img width="49%" src="images/social science 1.PNG?raw=true"/>
 </a>
- <a href="images/social science 2.PNG" target="_blank">
+<a href="images/social science 2.PNG" target="_blank">
 <img width="49%" src="images/social science 2.PNG?raw=true"/>
 </a>
-</p>
 <a href="images/social science 4.PNG" target="_blank">
 <img width="49%" src="images/social science 4.PNG?raw=true"/>
 </a>
