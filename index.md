@@ -4,26 +4,26 @@
 [Discoverpay](/#)
 <p float="left">
 <a href="images/discoverpay 2.PNG" target="_blank">
-<img src="images/discoverpay 2.PNG?raw=true"/>
+<img width="49%" src="images/discoverpay 2.PNG?raw=true"/>
 </a>
 <a href="images/discoverpay 1.PNG" target="_blank">
-<img src="images/discoverpay 1.PNG?raw=true"/>
+<img width="49%" src="images/discoverpay 1.PNG?raw=true"/>
 </a>
 <a href="images/discoverpay 3.PNG" target="_blank">
-<img src="images/discoverpay 3.PNG?raw=true"/>
+<img width="49%" src="images/discoverpay 3.PNG?raw=true"/>
 </a>
 <a href="images/discoverpay 9.PNG" target="_blank">
-<img src="images/discoverpay 9.PNG?raw=true"/>
+<img width="49%" src="images/discoverpay 9.PNG?raw=true"/>
 </a>
 </p>
 ---
 [Social Science](/#)
 <p float="left">
 <a href="images/social science 1.PNG" target="_blank">
-<img src="images/social science 1.PNG?raw=true"/>
+<img width="49%" src="images/social science 1.PNG?raw=true"/>
 </a> 
 <a href="images/social science 4.PNG" target="_blank">
-<img src="images/social science 4.PNG?raw=true"/>
+<img width="49%" src="images/social science 4.PNG?raw=true"/>
 </a>
 </p>
 ---
