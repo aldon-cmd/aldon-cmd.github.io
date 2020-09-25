@@ -30,11 +30,6 @@
 </a>
 </p>
 ---
-[Asset Manager](/#)
-<a href="images/asset manager.png" target="_blank">
-<img src="images/asset manager.png?raw=true"/>
-</a>
----
 [Pantrypan](/#)
 <p float="left">
 <a href="images/pantrypan.jpg" target="_blank">
@@ -44,3 +39,8 @@
 <img width="49%" src="images/pantrypan 2.png?raw=true"/>
 </a>
 </p>
+---
+[Asset Manager](/#)
+<a href="images/asset manager.png" target="_blank">
+<img src="images/asset manager.png?raw=true"/>
+</a>
