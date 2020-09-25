@@ -3,6 +3,9 @@
 ---
 [Discoverpay](/#)
 <img src="images/discoverpay 2.PNG?raw=true"/>
+<img src="images/discoverpay 1.PNG?raw=true"/>
+<img src="images/discoverpay 3.PNG?raw=true"/>
+<img src="images/discoverpay 9.PNG?raw=true"/>
 
 ---
 [Social Science](/#)
