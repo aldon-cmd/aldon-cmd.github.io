@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-[Discoverpay](/#)
+[Payroll Manager](/#)
 <p float="left">
 <a href="images/discoverpay 2.PNG" target="_blank">
 <img width="49%" src="images/discoverpay 2.PNG?raw=true"/>
@@ -20,7 +20,7 @@
 </a>
 </p>
 ---
-[Social Science](/#)
+[Video Conferencing & Video On Demand](/#)
 <p float="left">
 <a href="images/social science 1.PNG" target="_blank">
 <img width="49%" src="images/social science 1.PNG?raw=true"/>
@@ -33,7 +33,7 @@
 </a>
 </p>
 ---
-[Pantrypan](/#)
+[E-commerce](/#)
 <p float="left">
 <a href="images/pantrypan.jpg" target="_blank">
 <img height="131" width="49%" src="images/pantrypan.jpg?raw=true"/>
