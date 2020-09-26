@@ -12,6 +12,9 @@
 <a href="images/discoverpay 3.PNG" target="_blank">
 <img width="49%" src="images/discoverpay 3.PNG?raw=true"/>
 </a>
+<a href="images/discoverpay 6.PNG" target="_blank">
+<img width="49%" src="images/discoverpay 6.PNG?raw=true"/>
+</a>
 <a href="images/discoverpay 9.PNG" target="_blank">
 <img width="49%" src="images/discoverpay 9.PNG?raw=true"/>
 </a>
